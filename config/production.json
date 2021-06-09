@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://loganmongoDB:loganmongoDB47@devconnecter.jc2be.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "b492bd17835c8c8bc73b",
+  "githubSecret": "0499f2708f08c3cbfd96da507e7e69e206899ff1"
+}
