@@ -1,12 +1,14 @@
 /* Global Styles */
 :root {
-  --primary-color: #17a2b8;
+  --primary-color: #0466c2;
+  --secondary-color: #aa0e83;
+  --ternary-color: #38bd2c;
   --dark-color: #343a40;
   --light-color: #f4f4f4;
   --danger-color: #dc3545;
   --success-color: #28a745;
 }
-
+/*primary-color: #17a2b8; */
 * {
   box-sizing: border-box;
   margin: 0;
@@ -68,6 +70,10 @@ img {
 
 .text-primary {
   color: var(--primary-color);
+}
+
+.text-secondary {
+  color: var(--ternary-color);
 }
 
 .text-dark {
@@ -133,6 +139,8 @@ img {
   padding: 0.4rem 1.3rem;
   font-size: 1rem;
   border: none;
+  /* Border Radius */
+  border-radius: 15px;
   cursor: pointer;
   margin-right: 0.5rem;
   transition: opacity 0.2s ease-in;
@@ -206,7 +214,8 @@ img {
 }
 
 .btn:hover {
-  opacity: 0.8;
+  /* opacity: 0.8; */
+  background-color: var(--secondary-color);
 }
 
 .bg-light,
