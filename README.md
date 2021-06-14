@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DevConnector
 
 > Social Media Application for developers
@@ -248,4 +247,3 @@ git merge master
 ## Author
 
 Prince0047
->>>>>>> 766030c360a02e6d0510993560afcc4cd5d87ed6
