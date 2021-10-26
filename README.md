@@ -57,9 +57,22 @@ Check in browser on [http://localhost:5000/](http://localhost:5000/)
 
 ## Preview
 
-![Annotation 2020-06-22 055928 (2)](https://user-images.githubusercontent.com/39223762/87814977-0e932d80-c865-11ea-9dde-d60ed8b3c067.png)
-![image](https://user-images.githubusercontent.com/69083192/122090092-0781f000-ce25-11eb-9a0c-1c363d730bdf.png)
-![image](https://user-images.githubusercontent.com/69083192/122090314-44e67d80-ce25-11eb-8d05-3760de1c44a0.png)
+### Login/Signup
+![image](https://user-images.githubusercontent.com/69083192/138848885-6d139a14-6eaf-47ae-94fa-af199a4b66f4.png)
+![image](https://user-images.githubusercontent.com/69083192/138848953-790f9f89-adcc-45b1-b6b4-c86bc7656a87.png)
+
+### Developers
+![image](https://user-images.githubusercontent.com/69083192/138847435-98bf8c1c-3cab-48fa-bfca-2c07a3e9e20f.png)
+
+### Profile
+![image](https://user-images.githubusercontent.com/69083192/138847683-e7724d1e-16d8-4611-8b23-a77428a67719.png)
+![image](https://user-images.githubusercontent.com/69083192/138847873-b0bf8ae5-f25f-4821-9258-30438e927c15.png)
+
+### Posts
+![image](https://user-images.githubusercontent.com/69083192/138848056-558e64c8-2159-4120-a634-2a7f56fcb2f8.png)
+
+### Group
+![image](https://user-images.githubusercontent.com/69083192/138848518-5fd5832f-d340-4580-bf2e-f74871852de3.png)
 
 ## App Info
 
